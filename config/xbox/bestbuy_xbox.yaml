@@ -1,0 +1,6 @@
+---
+refresh_interval: 2
+max_price: 500
+urls:
+  - https://www.bestbuy.com/site/microsoft-xbox-series-x-1tb-console-black/6428324.p?skuId=6428324
+...

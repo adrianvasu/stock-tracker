@@ -1,0 +1,9 @@
+---
+refresh_interval: 2
+max_price: 700
+urls:
+  - https://www.bhphotovideo.com/c/product/1602755-REG/asus_dualrtx30708g_geforce_rtx_3070_8g.html
+  - https://www.bhphotovideo.com/c/product/1602756-REG/asus_strixrtx3070o8_rog_strix_geforce_rtx.html
+  - https://www.bhphotovideo.com/c/product/1595984-REG/pny_technologies_vcg30708tfxppb_geforce_rtx_3070_epic_x.html
+  - https://www.bhphotovideo.com/c/product/1595983-REG/pny_technologies_vcg30708dfmpb_geforce_rtx_3070_8gb.html
+...

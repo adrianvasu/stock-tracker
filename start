@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# This program starts up all the 3080 docker subscripts!
+
+./docker_run.bash -c ./config/3080/amazon_rtx_3080.yaml -a discord -w https://discordapp.com/api/webhooks/783523807674761242/H-WEHUwDE0_LKQzDFr2r5MgCg0dLe_It0fX25ryLWXkDnBOZ04Bnsyrgqh06dFoajSlF
+./docker_run.bash -c ./config/3080/bestbuy_rtx_3080.yaml -a discord -w https://discordapp.com/api/webhooks/783523807674761242/H-WEHUwDE0_LKQzDFr2r5MgCg0dLe_It0fX25ryLWXkDnBOZ04Bnsyrgqh06dFoajSlF
+./docker_run.bash -c ./config/3080/bhphoto_rtx_3080.yaml -a discord -w https://discordapp.com/api/webhooks/783523807674761242/H-WEHUwDE0_LKQzDFr2r5MgCg0dLe_It0fX25ryLWXkDnBOZ04Bnsyrgqh06dFoajSlF
+./docker_run.bash -c ./config/3080/microcenter_rtx_3080.yaml -a discord -w https://discordapp.com/api/webhooks/783523807674761242/H-WEHUwDE0_LKQzDFr2r5MgCg0dLe_It0fX25ryLWXkDnBOZ04Bnsyrgqh06dFoajSlF
+./docker_run.bash -c ./config/3080/newegg_rtx_3080.yaml -a discord -w https://discordapp.com/api/webhooks/783523807674761242/H-WEHUwDE0_LKQzDFr2r5MgCg0dLe_It0fX25ryLWXkDnBOZ04Bnsyrgqh06dFoajSlF

@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# This program restarts all the 3080 docker subscripts!
+
+./stop
+wait 5
+./start

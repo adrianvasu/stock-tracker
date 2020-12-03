@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# This program starts up all the 3080 docker subscripts!
+
+docker container kill amazon_rtx_3080 bestbuy_rtx_3080 bhphoto_rtx_3080 microcenter_rtx_3080 newegg_rtx_3080
+docker container rm amazon_rtx_3080 bestbuy_rtx_3080 bhphoto_rtx_3080 microcenter_rtx_3080 newegg_rtx_3080

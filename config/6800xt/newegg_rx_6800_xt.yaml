@@ -1,0 +1,18 @@
+---
+refresh_interval: 2 # seconds
+max_price: 850
+urls:
+  - https://www.newegg.com/asus-radeon-rx-6800-xt-rx6800xt-16g/p/N82E16814126472?Description=rx%206800xt&cm_re=rx_6800xt-_-14-126-472-_-Product
+  - https://www.newegg.com/sapphire-radeon-rx-6800-xt-21304-01-20g/p/N82E16814202388?Description=rx%206800xt&cm_re=rx_6800xt-_-14-202-388-_-Product
+  - https://www.newegg.com/asrock-radeon-rx-6800-xt-rx6800xt-tcx-16go/p/N82E16814930050?Description=rx%206800xt&cm_re=rx_6800xt-_-14-930-050-_-Product
+  - https://www.newegg.com/asrock-radeon-rx-6800-xt-rx6800xt-pgd-16go/p/N82E16814930049?Description=rx%206800xt&cm_re=rx_6800xt-_-14-930-049-_-Product
+  - https://www.newegg.com/xfx-radeon-rx-6800-xt-rx-68xtacbd9/p/N82E16814150844?Description=rx%206800xt&cm_re=rx_6800xt-_-14-150-844-_-Product
+  - https://www.newegg.com/gigabyte-radeon-rx-6800-xt-gv-r68xt-16gc-b/p/N82E16814932373?Description=rx%206800xt&cm_re=rx_6800xt-_-14-932-373-_-Product
+  - https://www.newegg.com/asrock-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814930045?Description=rx%206800xt&cm_re=rx_6800xt-_-14-930-045-_-Product
+  - https://www.newegg.com/msi-radeon-rx-6800-xt-rx-6800-xt-16g/p/N82E16814137607?Description=rx%206800xt&cm_re=rx_6800xt-_-14-137-607-_-Product
+  - https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-01-20g/p/N82E16814202390?Description=rx%206800xt&cm_re=rx_6800xt-_-14-202-390-_-Product
+  - https://www.newegg.com/sapphire-radeon-rx-6800-xt-11304-02-20g/p/N82E16814202391?Description=rx%206800xt&cm_re=rx_6800xt-_-14-202-391-_-Product
+  - https://www.newegg.com/gigabyte-radeon-rx-6800-xt-gv-r68xtgaming-oc-16gd/p/N82E16814932381?Description=rx%206800xt&cm_re=rx_6800xt-_-14-932-381-_-Product
+  - https://www.newegg.com/asus-radeon-rx-6800-xt-rog-strix-lc-rx6800xt-o16g-gaming/p/N82E16814126475?Description=rx%206800xt&cm_re=rx_6800xt-_-14-126-475-_-Product
+  - https://www.newegg.com/asus-radeon-rx-6800-xt-tuf-rx6800xt-o16g-gaming/p/N82E16814126476?Description=rx%206800xt&cm_re=rx_6800xt-_-14-126-476-_-Product
+...
