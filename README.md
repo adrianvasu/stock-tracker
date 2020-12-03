@@ -1,12 +1,4 @@
-# THIS APPLICATION DRAWS ITS ROOTS FROM INVENTORY HUNTER
-
-This app can be found at https://github.com/EricJMarti/inventory-hunter
-
-This readme is sourced from his code.
-
-# Inventory Hunter
-
-This bot helped me snag an RTX 3070... hopefully it will help you get your hands on your next CPU, GPU, or game console.
+# Stock Tracker
 
 ## Requirements
 
